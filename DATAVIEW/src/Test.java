@@ -28,7 +28,7 @@ public class Test {
 		//Montage_workflow w = new Montage_workflow();
 		//MR w = new MR();
 		
-		//RAWorkflow w = new RAWorkflow();
+		RAWorkflow w = new RAWorkflow();
 		//Dummy_Workflow w = new Dummy_Workflow();
 		//DisKMeansWorkflow w = new DisKMeansWorkflow();
 		// di san ci 
@@ -36,7 +36,7 @@ public class Test {
 		//DummyWorkflow w = new DummyWorkflow();
 		//WordCount_workflow w = new WordCount_workflow();
 		//Ligo_workflow w = new Ligo_workflow();
-		NNExecutor_workflow w = new NNExecutor_workflow();
+//		NNExecutor_workflow w = new NNExecutor_workflow();
 		
 		// step 2: design a workflow
 		w.design();
