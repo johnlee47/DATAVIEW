@@ -2,3 +2,7 @@
 2022/02/03 02:06:19.155, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRASetDifference@27bc2616}
 2022/02/03 02:06:19.158, Level: 3, We reached here:  Task RASetDifference start to run
 2022/02/03 02:06:19.161, Level: 3, We reached here:  Task RASetDifference is finished
+2022/02/05 00:33:20.151, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 00:33:20.153, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRASetDifference@27bc2616}
+2022/02/05 00:33:20.155, Level: 3, We reached here:  Task RASetDifference start to run
+2022/02/05 00:33:20.162, Level: 3, We reached here:  Task RASetDifference is finished
