@@ -6,3 +6,35 @@
 2022/02/05 00:33:20.153, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRASetDifference@27bc2616}
 2022/02/05 00:33:20.155, Level: 3, We reached here:  Task RASetDifference start to run
 2022/02/05 00:33:20.162, Level: 3, We reached here:  Task RASetDifference is finished
+2022/02/05 16:48:22.970, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 16:48:22.973, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRASetDifference@27bc2616}
+2022/02/05 16:48:22.976, Level: 3, We reached here:  Task RASetDifference start to run
+2022/02/05 16:48:22.985, Level: 3, We reached here:  Task RASetDifference is finished
+2022/02/05 16:51:02.821, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 16:51:02.826, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRACartesianProduct@27bc2616}
+2022/02/05 16:51:02.830, Level: 3, We reached here:  Task RACartesianProdcut start to run
+2022/02/05 16:51:02.835, Level: 2, Error message: cannot create a header which has two attributes with the same name. Consider using the rename operator while preforming a join or cartesian product
+2022/02/05 16:53:36.130, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 16:53:36.132, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRAIntersection@27bc2616}
+2022/02/05 16:53:36.133, Level: 3, We reached here:  Task RAIntersection start to run
+2022/02/05 16:53:36.137, Level: 3, We reached here:  Task RAIntersection is finished
+2022/02/05 16:53:36.373, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 16:53:36.375, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRAIntersection@27bc2616}
+2022/02/05 16:53:36.377, Level: 3, We reached here:  Task RAIntersection start to run
+2022/02/05 16:53:36.380, Level: 3, We reached here:  Task RAIntersection is finished
+2022/02/05 17:10:34.550, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 17:10:34.555, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRASetDifference@27bc2616}
+2022/02/05 17:10:34.558, Level: 3, We reached here:  Task RASetDifference start to run
+2022/02/05 17:10:34.567, Level: 3, We reached here:  Task RASetDifference is finished
+2022/02/05 17:13:21.635, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 17:13:21.639, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRAIntersection@27bc2616}
+2022/02/05 17:13:21.643, Level: 3, We reached here:  Task RAIntersection start to run
+2022/02/05 17:13:21.650, Level: 3, We reached here:  Task RAIntersection is finished
+2022/02/05 17:31:26.703, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 17:31:26.710, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRASetDifference@27bc2616}
+2022/02/05 17:31:26.715, Level: 3, We reached here:  Task RASetDifference start to run
+2022/02/05 17:31:26.726, Level: 3, We reached here:  Task RASetDifference is finished
+2022/02/05 17:34:39.703, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\prof.txt, 1=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\profCopy.txt}
+2022/02/05 17:34:39.709, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=C:\Users\arega\git\DATAVIEW\DATAVIEW\WebContent\workflowTaskDir\RAresult.txtRAIntersection@27bc2616}
+2022/02/05 17:34:39.712, Level: 3, We reached here:  Task RAIntersection start to run
+2022/02/05 17:34:39.719, Level: 3, We reached here:  Task RAIntersection is finished

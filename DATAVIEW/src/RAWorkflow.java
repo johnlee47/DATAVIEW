@@ -99,8 +99,8 @@ public class RAWorkflow extends Workflow{
 //		String currentTask = "RAUnion";
 //		String currentTask = "RASelect";
 //		String currentTask = "RADivision";
-		String currentTask = "RASetDifference";
-//		String currentTask = "RAIntersection";
+//		String currentTask = "RASetDifference";
+		String currentTask = "RAIntersection";
 		//String currentTask = "RAConditionalJoin";
 //		String currentTask = "RAEquijoin";
 //		String currentTask = "RATest";
