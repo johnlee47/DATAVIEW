@@ -1,0 +1,3 @@
+crscode== "CSC6710"
+semester == "20172"
+semester == "20190"

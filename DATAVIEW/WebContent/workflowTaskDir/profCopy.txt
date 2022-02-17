@@ -1,5 +1,6 @@
 ssn,profname,status
-0,Austin,N
-1,Lu,Y
-2,Junwen,Y
-3,Saied,N
+1111,Smith,Full
+2222,John,Associate
+3333,Thomas,Associate
+4444,Kathy,Assistant
+5555,Peter,Full

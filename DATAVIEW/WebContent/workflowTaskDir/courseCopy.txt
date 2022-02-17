@@ -1,0 +1,7 @@
+crscode,crsname,credits
+CSC6710,DatabasecourseI,3
+CSC7710,DatabaseII,3
+CSC4710,IntroductiontoDatabase,3
+CSC3020,JavaProgramming,3
+CSC4110,Softwareengineering,3
+CSC8710,BigDataManagement,3
